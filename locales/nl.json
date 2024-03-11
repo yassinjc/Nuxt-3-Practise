@@ -1,0 +1,11 @@
+{
+    "title": "Nuxt 3 Testen",
+    "2ndtitle": "Nuxt 3 Testing | Tweede Pagina",
+    "language": "Taal",
+    "textcard": "Dit is een eenvoudige website gemaakt om met Nuxt te experimenteren.",
+    "home": "HOME",
+    "second": "TWEEDE",
+    "third": "DERDE",
+    "section1": "Volgende Sectie",
+    "section1tekst": "Nuxt.js is een krachtig framework voor het bouwen van moderne webapplicaties met Vue.js. Het combineert de eenvoud en flexibiliteit van Vue.js met handige functionaliteiten voor server-side rendering (SSR), static site generation (SSG), en client-side routing, waardoor het ideaal is voor zowel kleine als grote projecten. \n \n Met Nuxt.js kun je snel en efficiënt webapplicaties ontwikkelen dankzij zijn conventies-over-configuratiebenadering. Hierdoor hoef je minder tijd te besteden aan het opzetten van de projectstructuur en kun je je meer richten op het schrijven van code."
+}

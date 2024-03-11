@@ -1,0 +1,11 @@
+{
+    "title": "Nuxt 3 Testing",
+    "2ndtitle": "Nuxt 3 Testing | Second Page",
+    "language": "Language",
+    "textcard": "This is a simple website made to explore Nuxt.",
+    "home": "HOME",
+    "second": "SECOND",
+    "third": "THIRD",
+    "section1": "Next Section",
+    "section1tekst": "Nuxt.js is a powerful framework for building modern web applications with Vue.js. It combines the simplicity and flexibility of Vue.js with convenient features for server-side rendering (SSR), static site generation (SSG), and client-side routing, making it ideal for both small and large projects. With Nuxt.js, you can develop web applications quickly and efficiently thanks to its convention-over-configuration approach. This allows you to spend less time setting up the project structure and focus more on writing code."
+}
